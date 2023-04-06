@@ -12,3 +12,7 @@ or by the name of the city ...
 or by the name of the airport.
 
 ![Search by airport name](img/search_by_airport.png)
+
+## Attribution
+
+<a href="https://www.flaticon.com/free-icons/airport" title="airport icons">Airport icons created by Flat Icons - Flaticon</a>
