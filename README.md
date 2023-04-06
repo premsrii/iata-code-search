@@ -26,6 +26,9 @@ or by the name of the airport:
 
 ![Search by airport name](img/search_by_airport.png)
 
+Press <kbd>↩</kbd> on a selected suggestion to perform a Google search on the airport,
+and <kbd>⌥</kbd> <kbd>↩</kbd> to open the airport's location in Google maps.
+
 ### Tip 💡
 
 To filter out unwanted suggestions while searching exclusively for an IATA code, add a comma at the end of the query, like so:
